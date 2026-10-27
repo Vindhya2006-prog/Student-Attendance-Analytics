@@ -1,0 +1,4 @@
+status,student_name,attendance_pct,consecutive_absences
+Critical,21,0.38333333333333336,12
+Safe,20,0.944,1
+Warning,24,0.7999999999999999,1
